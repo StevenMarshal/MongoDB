@@ -58,6 +58,7 @@ Neo4J、InfoGrid、infiniteGraph
 在一个分布式系统中连续性/一致性（Consistency）、有效性（availability
 ）、分区容错性（Partition  tolerance）三者不可兼得，一定要有所取舍。换句话说也就是只能满足其中的两个特性。  
 
+![CAP Theorem](images/CAP_Theorem.png)
 
 ## 1.4 ACID的一致性与CAP的一致性
 
